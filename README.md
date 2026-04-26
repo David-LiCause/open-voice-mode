@@ -29,7 +29,7 @@ https://www.icloud.com/shortcuts/a243d6a0ef5148b181a7fa79265c7dae
  - Tap **Add Action**
  - Scroll the app list and tap **ChatGPT**
  - Tap **Start a Voice Conversation**
- - Rename the shortcut to **Talk to ChatGPT** (this is the Siri trigger phrase)
+ - Rename the shortcut to **Talk To ChatGPT** (this is the Siri trigger phrase)
 
 **Test:** say "Hey Siri, talk to ChatGPT". The ChatGPT app should open directly in voice mode.
 
@@ -50,7 +50,7 @@ https://www.icloud.com/shortcuts/fc080490d7bb4ae9bcefdd126ee6bdc9
  - Tap **Add Action**
  - Scroll the app list and tap **Gemini**
  - Tap **Talk Live with Gemini**
- - Rename the shortcut to **Talk to Gemini** (this is the Siri trigger phrase)
+ - Rename the shortcut to **Talk To Gemini** (this is the Siri trigger phrase)
 
 **Test:** say "Hey Siri, talk to Gemini". The Gemini app should open directly in Gemini Live.
 
@@ -71,6 +71,6 @@ https://www.icloud.com/shortcuts/83c4ec4e95f24b4681d013748da4834f
  - Tap **Add Action**
  - Scroll the app list and tap **Claude**
  - Tap **Start voice conversation**
- - Rename the shortcut to **Talk to Claude** (this is the Siri trigger phrase)
+ - Rename the shortcut to **Talk To Claude** (this is the Siri trigger phrase)
 
 **Test:** say "Hey Siri, talk to Claude". The Claude app should open directly in voice mode.
