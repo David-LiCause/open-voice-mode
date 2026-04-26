@@ -8,17 +8,34 @@ Simple iPhone shortcuts that open AI voice mode with a Siri trigger — e.g. "He
 
 ## Install
 
-- Claude: ~30 seconds
-- ChatGPT: ~30 seconds
-- Gemini: ~30 seconds
+### Claude (~30 seconds)
 
-### ChatGPT
+**Prerequisites:** Native Apple Shortcuts app & Claude iOS app
+
+**Quick Install:** 
+
+On your iPhone, click on the link below and tap 'Add Shortcut' in the preview. The link will create a new shortcut through the native Apple Shortcuts app.
+
+https://www.icloud.com/shortcuts/83c4ec4e95f24b4681d013748da4834f
+
+**Manual Install:** 
+
+ - Open Shortcuts app
+ - Tap **+** (top right) to create a new shortcut
+ - Tap **Add Action**
+ - Scroll the app list and tap **Claude**
+ - Tap **Start voice conversation**
+ - Rename the shortcut to **Talk To Claude** (this is the Siri trigger phrase)
+
+**Test:** say "Hey Siri, talk to Claude". The Claude app should open directly in voice mode.
+
+### ChatGPT (~30 seconds)
 
 **Prerequisites:** Native Apple Shortcuts app & ChatGPT iOS app
 
 **Quick Install:** 
 
-On your iPhone, click on the link below and tap **Add Shortcut** in the preview. The link will create a new shortcut through the native Apple Shortcuts app.
+On your iPhone, click on the link below and tap 'Add Shortcut' in the preview. The link will create a new shortcut through the native Apple Shortcuts app.
 
 https://www.icloud.com/shortcuts/a243d6a0ef5148b181a7fa79265c7dae
 
@@ -33,13 +50,13 @@ https://www.icloud.com/shortcuts/a243d6a0ef5148b181a7fa79265c7dae
 
 **Test:** say "Hey Siri, talk to ChatGPT". The ChatGPT app should open directly in voice mode.
 
-### Gemini
+### Gemini (~30 seconds)
 
 **Prerequisites:** Native Apple Shortcuts app & Gemini iOS app
 
 **Quick Install:** 
 
-On your iPhone, click on the link below and tap **Add Shortcut** in the preview. The link will create a new shortcut through the native Apple Shortcuts app.
+On your iPhone, click on the link below and tap 'Add Shortcut' in the preview. The link will create a new shortcut through the native Apple Shortcuts app.
 
 https://www.icloud.com/shortcuts/fc080490d7bb4ae9bcefdd126ee6bdc9
 
@@ -54,23 +71,4 @@ https://www.icloud.com/shortcuts/fc080490d7bb4ae9bcefdd126ee6bdc9
 
 **Test:** say "Hey Siri, talk to Gemini". The Gemini app should open directly in Gemini Live.
 
-### Claude
 
-**Prerequisites:** Native Apple Shortcuts app & Claude iOS app
-
-**Quick Install:** 
-
-On your iPhone, click on the link below and tap **Add Shortcut** in the preview. The link will create a new shortcut through the native Apple Shortcuts app.
-
-https://www.icloud.com/shortcuts/83c4ec4e95f24b4681d013748da4834f
-
-**Manual Install:** 
-
- - Open Shortcuts app
- - Tap **+** (top right) to create a new shortcut
- - Tap **Add Action**
- - Scroll the app list and tap **Claude**
- - Tap **Start voice conversation**
- - Rename the shortcut to **Talk To Claude** (this is the Siri trigger phrase)
-
-**Test:** say "Hey Siri, talk to Claude". The Claude app should open directly in voice mode.
